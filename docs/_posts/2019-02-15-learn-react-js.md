@@ -3,9 +3,8 @@ title: Learn React.js in 5 minutes
 tags: [React, JavaScript, Web Development]
 style: border
 color: primary
-description: A quick introduction to the popular JavaScript library.
+description: A quick introductfhadjhfjkahdskjfhasd fiudahfjsdahion to the popular JavaScript library.knkjkljgklsdjf jfkjkdsjfkjds ffdjkhfjadhiuf adsnfkdahfiudah hjdhfjah fjhdk
 ---
-
 Source: [freecodecamp](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
 This tutorial will give you a basic understanding of React.js by building a very simple application. I’ll leave out everything which I don’t think is core.
